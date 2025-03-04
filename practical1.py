@@ -3,3 +3,4 @@ def my_function():
 # Calling the function
 my_function() 
 print("Hello from outside the function")
+
